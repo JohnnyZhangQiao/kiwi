@@ -123,7 +123,6 @@ export default {
   }
 }
 
-
 /*pc端设备*/
 @media (min-width: 766px) {
   .navigation-bar {
